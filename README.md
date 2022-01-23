@@ -1,6 +1,8 @@
 ### React-native-chat
 ##Build with Expo-CLI
+
 ##Combination of Nodejs Express API with react native front End
+
 #Screens of the projetct
 
 ![screen1](https://user-images.githubusercontent.com/61246422/150673219-98020805-8be5-43a9-840d-88f9f629b376.png)
